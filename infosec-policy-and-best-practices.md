@@ -15,9 +15,11 @@ You are required to work on an Apple computer hardware, running the latest macOS
 
 ## Data storage and transfer
 
-You are 
+1. You are allowed to store work data only on you *designated work computer*. You are not allowed to make a copy of work data on other computers without prior permission from your team lead.
+2. When storing and transferring work data online to coworkers, partners or clients, you are only allowed to upload and facilitate the transfer of such data on the Good Work Workspace Google Drive. This ensures that access to the file is kept secure, backed-up and virus-free.
+3. You are *not allowed* to store or transfer data on a physical hard drive or thumb drive, aside from the hard disk of your designated work computer. 
 
-Good Work does not allow employees to transfer any work data physically.  
+
 
 Customer data is not exposed directly to developers.
 Database access is only allowed on a need-to-know basis and are revoked after relevant task is completed. 
