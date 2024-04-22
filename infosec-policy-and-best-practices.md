@@ -23,7 +23,7 @@ You are required to work on an Apple computer hardware, running the latest macOS
 ### Work email
 
 1. You are required to use your official work email account for all work-related email communication. This will be your `@goodwork.sg` email address provided when your employment starts.
-2. When sending file attachments, gdrive or attach to email
+2. When sending file attachments, ensure that you are either uploading the file to Good Work's Google Workspace via Google Drive, or attaching it to your email sent from your @goodwork.sg address directly. This ensures that files are automatically checked for malware before they are sent.
 
 ### Database access
 
