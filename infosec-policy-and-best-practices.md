@@ -29,7 +29,7 @@ You are required to work on an Apple computer hardware, running the latest macOS
 
 1. Provisioning of databases is managed by the tech lead and any team member of the back-end developer role. 
 2. As part of your work, you might get access to databases. It is your responsibility to keep database credentials secure, by observing the following best practices:  
-  i. Always keep database credentials in a `.env` file, and always add `.env` files (any environment variable file) to the `.gitignore` list so that credentials are never committed to the code repository
+  i. Always keep database credentials in a `.env` file, and always add `.env` files (any environment variable file) to the `.gitignore` list so that credentials are never committed to the code repository  
   ii. Always look out for GitGuardian alerts in your email, which flags any potential leaks in credentials in Good Work's Git repositories. In the event where a GitGuardian is raised, escalate the incident with your team lead immediately for resolution
 3. When handling customer data, including user-generated data and client data, you are required to seek confirmation from your team lead on allowed usage if data needs to be replicated or inserted into any database, including any cloud-hosted database.
 4. You are required to seek permission from your team lead before duplicating or transferring production data, or any data that potentially contains customer or user generated data, to your computer for development purposes.
